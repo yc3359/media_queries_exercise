@@ -1,0 +1,108 @@
+/* CSS files add styling rules to your content */
+@media only screen and (max-width: 1224px) {
+  body {
+    font-family: helvetica, arial, sans-serif;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  h1 {
+    font-style: italic;
+    color: #373fff;
+    font-size: 40px;
+  }
+  p {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  img {
+    width: 55%;
+    height: auto;
+  }
+  figcaption {
+    font-size: 20px;
+  }
+  figure {
+    width: 50%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 1224px) {
+  body {
+    font-family: helvetica, arial, sans-serif;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: lightblue;
+  }
+
+  h1 {
+    font-style: italic;
+    color: #373fff;
+    font-size: 40px;
+  }
+  p {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  img {
+    width: 55%;
+    height: auto;
+  }
+  figcaption {
+    font-size: 20px;
+  }
+  figure {
+    width: 50%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+  }
+}@media only screen and (max-width: 600px) {
+  body {
+    font-family: helvetica, arial, sans-serif;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: lightgreen;
+  }
+
+  h1 {
+    font-style: italic;
+    color: #373fff;
+    font-size: 40px;
+  }
+  p {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  img {
+    width: 60%;
+    height: auto;
+  }
+  figcaption {
+    font-size: 20px;
+  }
+  figure {
+    width: 50%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+  }
+}
